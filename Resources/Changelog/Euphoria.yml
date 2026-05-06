@@ -2661,3 +2661,15 @@ Entries:
       message: Official policy surrounding ERP
   id: 334
   time: '2026-05-06T12:13:58.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        A Sechtech jobs slot has been added to Lighthouse & archivists get their
+        locker.
+    - type: Tweak
+      message: >-
+        Medicals cryopod always had a distro hookup, it was just hidden under a
+        table so that isn't hidden anymore.
+  id: 335
+  time: '2026-05-06T12:17:59.0000000+00:00'
