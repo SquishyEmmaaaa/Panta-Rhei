@@ -2726,3 +2726,9 @@ Entries:
       message: Corpsman pdas will now contain a penlight.
   id: 342
   time: '2026-05-09T07:58:20.0000000+00:00'
+- author: Gaybritishcow
+  changes:
+    - type: Add
+      message: Added AAC words
+  id: 343
+  time: '2026-05-09T08:18:36.0000000+00:00'
