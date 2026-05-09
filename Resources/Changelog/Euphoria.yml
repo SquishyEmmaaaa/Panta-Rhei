@@ -2714,3 +2714,9 @@ Entries:
         their own room.
   id: 340
   time: '2026-05-08T10:14:14.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: Dispel should no longer kill the lesser hellspawn.
+  id: 341
+  time: '2026-05-09T01:49:37.0000000+00:00'
