@@ -2814,3 +2814,12 @@ Entries:
       message: Fixed LV & MV issues.
   id: 352
   time: '2026-05-14T16:29:07.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        Harnesses have been added to the neck section of loadouts. Note: they
+        will display white in loadouts but will have their proper color in
+        round.
+  id: 353
+  time: '2026-05-15T11:24:36.0000000+00:00'
