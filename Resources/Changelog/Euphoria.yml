@@ -2837,3 +2837,9 @@ Entries:
         players, rejoice.
   id: 355
   time: '2026-05-15T11:30:51.0000000+00:00'
+- author: JFerrix
+  changes:
+    - type: Remove
+      message: Removed psionic regeneration trait
+  id: 356
+  time: '2026-05-15T13:49:57.0000000+00:00'
