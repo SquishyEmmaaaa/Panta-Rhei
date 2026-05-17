@@ -5,7 +5,7 @@
 
   - node: start
     edges:
-    - to: bonfire
+    - to: unlit # Floof
       steps:
       - material: WoodPlank
         amount: 15 # Floof - increase for parity

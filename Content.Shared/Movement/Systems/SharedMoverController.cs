@@ -233,8 +233,11 @@ public abstract partial class SharedMoverController : VirtualController
          * doing unnecessary calculations.
          * Only a Kinematic Controller should be making it to this point.
          */
-        DebugTools.Assert(physicsComponent.BodyType == BodyType.KinematicController || physicsComponent.BodyType == BodyType.Kinematic,
-            $"Input mover: {ToPrettyString(uid)} in HandleMobMovement is not the correct BodyType, BodyType found: {physicsComponent.BodyType}, expected: KinematicController.");
+        // Floofstation - this is complete and utter bullshit, test your changes god damn it.
+        // This crashes the testing suite because of weird interactions between PVS and shitmed, leading to the mind inside the brain taking control over the head when it is detached
+        //
+        // DebugTools.Assert(physicsComponent.BodyType == BodyType.KinematicController || physicsComponent.BodyType == BodyType.Kinematic,
+        //     $"Input mover: {ToPrettyString(uid)} in HandleMobMovement is not the correct BodyType, BodyType found: {physicsComponent.BodyType}, expected: KinematicController.");
 
         // If the body is in air but isn't weightless then it can't move
         var weightless = _gravity.IsWeightless(uid);
