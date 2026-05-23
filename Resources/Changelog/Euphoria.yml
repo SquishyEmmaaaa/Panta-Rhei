@@ -3053,3 +3053,9 @@ Entries:
         Clean Fun vendor.
   id: 379
   time: '2026-05-23T06:55:11.0000000+00:00'
+- author: BestWaffle
+  changes:
+    - type: Add
+      message: Reenabled the dragon wing markings. Dragon enjoyers rejoice!
+  id: 380
+  time: '2026-05-23T07:38:46.0000000+00:00'
