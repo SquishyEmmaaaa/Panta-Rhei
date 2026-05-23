@@ -3016,3 +3016,20 @@ Entries:
       message: Security Cadets should no longer spawn with duplicate pieces of gear.
   id: 375
   time: '2026-05-22T11:12:02.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        Centcomm has found large quantities of a book called "gorlex goddess"
+        and they have been blessed by Centcomms top chaplain. These new bibles
+        can be found in loadouts.
+    - type: Add
+      message: >-
+        Chadius broke into the bible distribution network and made his own bible
+        on how to get laid.
+    - type: Add
+      message: The communist manifesto is also available now as a bible.
+    - type: Add
+      message: The mother loaf has blessed a loaf of bread that can be used as a bible.
+  id: 376
+  time: '2026-05-23T04:16:48.0000000+00:00'
