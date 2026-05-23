@@ -3059,3 +3059,11 @@ Entries:
       message: Reenabled the dragon wing markings. Dragon enjoyers rejoice!
   id: 380
   time: '2026-05-23T07:38:46.0000000+00:00'
+- author: SyaoranFox
+  changes:
+    - type: Add
+      message: 6 Floof/Euphoria Lobby Art
+    - type: Remove
+      message: 6 Delta V Lobby Art
+  id: 381
+  time: '2026-05-23T08:15:46.0000000+00:00'
