@@ -3111,3 +3111,9 @@ Entries:
       message: Napsack, to loadout.
   id: 388
   time: '2026-05-24T11:12:57.0000000+00:00'
+- author: WhiteLightningTwister
+  changes:
+    - type: Fix
+      message: Added things missing from the todo list to fland.
+  id: 389
+  time: '2026-05-24T17:29:59.0000000+00:00'
