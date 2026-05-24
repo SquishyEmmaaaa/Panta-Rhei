@@ -3117,3 +3117,9 @@ Entries:
       message: Added things missing from the todo list to fland.
   id: 389
   time: '2026-05-24T17:29:59.0000000+00:00'
+- author: WhiteLightningTwister
+  changes:
+    - type: Fix
+      message: adjusted edge with missing things from the temp toodoo list.
+  id: 390
+  time: '2026-05-24T17:50:13.0000000+00:00'
