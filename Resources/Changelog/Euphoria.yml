@@ -3105,3 +3105,9 @@ Entries:
       message: Medfabs can now make gas analyzers
   id: 387
   time: '2026-05-24T10:46:28.0000000+00:00'
+- author: ScarlettJFG
+  changes:
+    - type: Add
+      message: Napsack, to loadout.
+  id: 388
+  time: '2026-05-24T11:12:57.0000000+00:00'
