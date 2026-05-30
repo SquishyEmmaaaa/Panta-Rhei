@@ -3222,3 +3222,15 @@ Entries:
         HUBBA
   id: 404
   time: '2026-05-30T05:17:26.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Add
+      message: >-
+        Merged upstream changes up to and including 2026-05-01. See the PR#580
+        for more details.
+    - type: Fix
+      message: >-
+        There should no longer be two instances of Lavaland in every round, and
+        lavaland won't try to generate 1 million tiles at once.
+  id: 405
+  time: '2026-05-30T05:41:49.0000000+00:00'
