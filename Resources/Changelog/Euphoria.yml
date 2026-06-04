@@ -3341,3 +3341,11 @@ Entries:
         such as remotes, buttons and switches.
   id: 419
   time: '2026-06-02T17:47:34.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: >-
+        The following evac shuttles should no longer start with their APCs
+        overloaded: NTES Propeller, NTES BC20, NTES Kabooze, NTES Meta
+  id: 420
+  time: '2026-06-04T12:03:06.0000000+00:00'
