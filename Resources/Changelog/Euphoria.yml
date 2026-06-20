@@ -3734,3 +3734,9 @@ Entries:
         details.
   id: 466
   time: '2026-06-19T09:26:33.0000000+00:00'
+- author: Eagle0600
+  changes:
+    - type: Fix
+      message: Premium and SecHud cybereyes modules are selectable.
+  id: 467
+  time: '2026-06-20T23:34:08.0000000+00:00'
