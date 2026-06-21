@@ -3782,3 +3782,9 @@ Entries:
       message: Hotdogs can once again be made.
   id: 473
   time: '2026-06-21T03:13:19.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: Paramedic bags are back in stock in the medical drobe.
+  id: 474
+  time: '2026-06-21T03:15:13.0000000+00:00'
